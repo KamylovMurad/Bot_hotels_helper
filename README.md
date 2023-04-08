@@ -4,7 +4,7 @@
 Для старта работы программы необходимо ввести команду /hello-world или отправить любое сообщение,
 после чего бот предложит вам ознакомится со списком возможных команд и их описанием.
 
-![](../pictures/help.png)
+![](pictures/help.png)
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 _Пример вывода_
 
-![](../pictures/lowprice.png)
+![](pictures/lowprice.png)
 
 
 ___
@@ -40,7 +40,7 @@ ___
 
 _Пример вывода_
 
-![](../pictures/highprice.png)
+![](pictures/highprice.png)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 _Пример вывода_
 
-![](../pictures/bestdeal.png)
+![](pictures/bestdeal.png)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 _Пример вывода_
 
-![](../pictures/history.png)
+![](pictures/history.png)
 
 ___
 
