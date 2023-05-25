@@ -12,7 +12,6 @@ from func_file import data
 import json
 from json import JSONDecodeError
 
-# Бот - Jarvis_7_33bot
 
 bot = telebot.TeleBot(token)
 
